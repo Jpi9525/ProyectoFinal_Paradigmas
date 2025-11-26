@@ -4,7 +4,7 @@ import java.util.List;
 
 public interface Interfaz {
     void agregarProducto(Producto producto);
-    void eliminarProducto(String id);
-    Producto buscarProducto(String id);
+    void eliminarProducto(int ProductoID);
+    Producto buscarProducto(int ProductoID);
     List<Producto> listarProductos();
 }
