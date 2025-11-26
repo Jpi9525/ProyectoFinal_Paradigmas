@@ -1,4 +1,4 @@
-package com.mycompany.muebleria;
+package com.muebleriamicasatucasa.sistema;
 
 import java.util.ArrayList;
 import java.util.List;

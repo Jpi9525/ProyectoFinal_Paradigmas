@@ -1,4 +1,4 @@
-package com.mycompany.muebleria;
+package com.muebleriamicasatucasa.sistema;
 
 public class Mesa extends Producto {
 
